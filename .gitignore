@@ -26,3 +26,5 @@ go.work.sum
 
 # generated grpc go files
 api/*
+
+.DS_Store
